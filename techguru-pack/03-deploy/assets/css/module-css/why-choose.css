@@ -74,6 +74,16 @@
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
+/* Mobile Responsive Fixes - Add gap between cards */
+@media (max-width: 991px) {
+    .why-choose-one .col-md-6 {
+        margin-bottom: 30px;
+    }
+    
+    .why-choose-one .row:last-child .col-md-6:last-child {
+        margin-bottom: 0;
+    }
+}
 
 
 /* Removed obsolete shape and progress styles to focus on background diagram */
