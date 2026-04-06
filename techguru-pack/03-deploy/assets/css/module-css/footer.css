@@ -4,7 +4,7 @@
 .site-footer {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     overflow: hidden;
     z-index: 1;
 }
@@ -16,7 +16,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(var(--techguru-white-rgb), .05);
+    background-color: rgba(var(--complaint-white-rgb), .05);
     z-index: -1;
 }
 
@@ -125,7 +125,7 @@
 
 .site-footer__top-text {
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     line-height: 30px;
 }
 
@@ -141,7 +141,7 @@
     justify-content: center;
     gap: 10px;
     font-size: 24px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 500;
     padding: 22px 48px 21px;
     border-radius: 35px;
@@ -150,7 +150,7 @@
 }
 
 .site-footer__btn:hover {
-    color: var(--techguru-black);
+    color: var(--complaint-black);
 }
 
 .site-footer__btn:before {
@@ -179,7 +179,7 @@
 
 .site-footer__btn:after {
     position: absolute;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     bottom: 0;
     right: 0;
     content: "";
@@ -299,14 +299,14 @@
     display: flex;
     align-items: center;
     font-size: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .footer-widget__contact-list li .icon-box p {
     font-size: 20px;
     font-weight: 700;
-    color: var(--techguru-white);
-    font-family: var(--techguru-font);
+    color: var(--complaint-white);
+    font-family: var(--complaint-font);
 }
 
 .footer-widget__contact-list li .text {
@@ -328,11 +328,11 @@
 .footer-widget__contact-list li .text p a.mail-box {
     font-size: 16px;
     font-weight: 500;
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
 }
 
 .footer-widget__contact-list li .text p a.mail-box:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .footer-widget__contact-list li .text p a.call-number {
@@ -341,7 +341,7 @@
 }
 
 .footer-widget__contact-list li .text p a.call-number:hover {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .footer-widget__quick-links {
@@ -358,14 +358,14 @@
     bottom: -146px;
     left: 0;
     width: 1px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
 }
 
 .footer-widget__title {
     position: relative;
     display: block;
     font-size: 24px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     text-transform: capitalize;
     font-weight: 500;
     line-height: 24px;
@@ -385,14 +385,14 @@
     position: relative;
     display: inline-block;
     font-size: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 400;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
 
 .footer-widget__quick-links-list li a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .footer-widget__quick-links-list li a:before {
@@ -401,7 +401,7 @@
     left: 0;
     right: 0;
     height: 2px;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     content: "";
     transition: transform 500ms ease;
     transform: scale(0, 1);
@@ -427,7 +427,7 @@
     bottom: -146px;
     left: 0;
     width: 1px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
 }
 
 .footer-widget__support:after {
@@ -437,7 +437,7 @@
     bottom: -146px;
     right: 0;
     width: 1px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
 }
 
 .footer-widget__newsletter {
@@ -468,12 +468,12 @@
 
 .site-footer__newsletter-input input[type="email"] {
     font-size: 16px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 400;
     height: 60px;
     width: 100%;
     background: transparent;
-    border: 1px solid rgba(var(--techguru-white-rgb), .20);
+    border: 1px solid rgba(var(--complaint-white-rgb), .20);
     border-radius: 16px;
     outline: none;
     padding: 0 25px 0;
@@ -490,7 +490,7 @@
     border-radius: 10px;
     background: linear-gradient(270deg, #FA5674 0%, #6065D4 100%);
     font-size: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     padding: 0;
 }
 
@@ -513,13 +513,13 @@
     padding-left: 30px;
     margin-right: 0px;
     margin-bottom: 0;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
     text-transform: none;
     cursor: pointer;
-    font-family: var(--techguru-font);
+    font-family: var(--complaint-font);
 }
 
 .site-footer__newsletter-form .checked-box input[type="checkbox"] {
@@ -574,8 +574,8 @@
     top: 4px;
     left: 6px;
     display: block;
-    border-bottom: 2px solid var(--techguru-white);
-    border-right: 2px solid var(--techguru-white);
+    border-bottom: 2px solid var(--complaint-white);
+    border-right: 2px solid var(--complaint-white);
     content: '';
     width: 6px;
     height: 9px;
@@ -592,7 +592,7 @@
 }
 
 .site-footer__newsletter-form.checked-box input[type="checkbox"]:checked+label span {
-    border-color: var(--techguru-white);
+    border-color: var(--complaint-white);
 }
 
 .site-footer__newsletter-form .checked-box input[type="checkbox"]:checked+label span:before {
@@ -608,7 +608,7 @@
 .site-footer__social-title {
     font-size: 24px;
     font-weight: 500;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     line-height: 24px;
     margin-bottom: 16px;
 }
@@ -629,10 +629,10 @@
     height: 48px;
     width: 48px;
     background-color: transparent;
-    border: 1px solid rgba(var(--techguru-white-rgb), .20);
+    border: 1px solid rgba(var(--complaint-white-rgb), .20);
     border-radius: 50%;
     font-size: 22px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
     z-index: 1;
@@ -679,16 +679,16 @@
 
 .site-footer__copyright-text {
     font-size: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 400;
 }
 
 .site-footer__copyright-text a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .site-footer__copyright-text a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 /*--------------------------------------------------------------
@@ -698,7 +698,7 @@
     position: relative;
     display: block;
     overflow: hidden;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     z-index: 1;
 }
 
@@ -709,7 +709,7 @@
     bottom: 0;
     right: 0;
     left: 0;
-    background-color: rgba(var(--techguru-white-rgb), .05);
+    background-color: rgba(var(--complaint-white-rgb), .05);
     z-index: -1;
 }
 
@@ -762,7 +762,7 @@
     position: relative;
     display: block;
     padding: 45px 48px 43px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
     border-radius: 40px;
 }
 
@@ -830,7 +830,7 @@
     position: relative;
     display: inline-block;
     font-size: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .site-footer-two__contact-content {
@@ -851,7 +851,7 @@
 
 .site-footer-two__contact-info {
     font-size: 16px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     line-height: 24px;
 }
 
@@ -861,19 +861,19 @@
 }
 
 .site-footer-two__contact-mail {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .site-footer-two__contact-mail:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .site-footer-two__contact-phone {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .site-footer-two__contact-phone:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .footer-widget-two__quick-links {
@@ -912,14 +912,14 @@
     flex-wrap: wrap;
     gap: 10px;
     font-size: 18px;
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
     font-weight: 500;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
 
 .footer-widget-two__quick-links-list li a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .footer-widget-two__quick-links-list li a:before {
@@ -928,7 +928,7 @@
     left: 0;
     right: 0;
     height: 2px;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     content: "";
     transition: transform 500ms ease;
     transform: scale(0, 1);
@@ -979,7 +979,7 @@
 .site-footer-two__bottom {
     position: relative;
     display: block;
-    border-top: 1px solid rgba(var(--techguru-gray-rgb), .20);
+    border-top: 1px solid rgba(var(--complaint-gray-rgb), .20);
     padding: 30.5px 0;
 }
 
@@ -997,16 +997,16 @@
 }
 
 .site-footer-two__copyright-text {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 500;
 }
 
 .site-footer-two__copyright-text a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .site-footer-two__copyright-text a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .site-footer-two__social-box {
@@ -1042,10 +1042,10 @@
     height: 48px;
     width: 48px;
     background-color: transparent;
-    border: 1px solid rgba(var(--techguru-white-rgb), .20);
+    border: 1px solid rgba(var(--complaint-white-rgb), .20);
     border-radius: 50%;
     font-size: 22px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
     z-index: 1;

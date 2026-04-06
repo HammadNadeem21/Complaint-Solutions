@@ -6,7 +6,7 @@
     display: block;
     overflow: hidden;
     padding: 108px 0 108px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     z-index: 1;
 }
 
@@ -35,7 +35,7 @@
 
 .cta-one__title {
     font-size: 35px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     line-height: 1.2em;
     font-weight: 700;
 }
@@ -58,7 +58,7 @@
     position: relative;
     display: inline-block;
     font-size: 45px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .cta-one__contact-details {
@@ -70,7 +70,7 @@
 .cta-one__contact-details p {
     font-size: 18px;
     line-height: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .cta-one__contact-details h4 {
@@ -81,11 +81,11 @@
 }
 
 .cta-one__contact-details h4 a {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .cta-one__contact-details h4 a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 
@@ -144,9 +144,9 @@
 
 .cta-two__left .section-title__tagline {
     background: none;
-    -webkit-text-fill-color: var(--techguru-white);
+    -webkit-text-fill-color: var(--complaint-white);
     background-clip: none;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .cta-two__left .section-title__tagline-shape-1 {
@@ -164,7 +164,7 @@
 
 .cta-two__btn-box .thm-btn {
     background: linear-gradient(270deg, #ffffff 0%, #ffffff 100%);
-    color: var(--techguru-black);
+    color: var(--complaint-black);
 }
 
 .cta-two__right {
@@ -189,11 +189,11 @@
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .cta-two__text {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin: 17px 0 30px;
 }
 
@@ -207,7 +207,7 @@
     display: flex;
     align-items: flex-start;
     gap: 25px;
-    border-top: 1px solid rgba(var(--techguru-white-rgb), .24);
+    border-top: 1px solid rgba(var(--complaint-white-rgb), .24);
     padding-top: 30px;
 }
 
@@ -250,7 +250,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .cta-two__list li .content {
@@ -263,16 +263,16 @@
     font-size: 20px;
     font-weight: 700;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 4px;
 }
 
 .cta-two__list li .content p a {
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
 }
 
 .cta-two__list li .content p a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 

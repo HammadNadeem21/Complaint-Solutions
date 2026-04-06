@@ -42,14 +42,14 @@
 
 .banner-one__title {
     font-size: 60px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     line-height: 1.2em;
     font-weight: 500;
     margin-bottom: 20px;
 }
 
 .banner-one__title span {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .banner-one__btn-box {
@@ -106,7 +106,7 @@
     line-height: 60px;
     text-align: center;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     border-radius: 50%;
     margin: 0 auto 0;
     transition: all 0.5s ease;
@@ -153,8 +153,8 @@
 }
 
 .banner-one__video-icon:hover {
-    background-color: var(--techguru-base);
-    color: var(--techguru-black);
+    background-color: var(--complaint-base);
+    color: var(--complaint-black);
 }
 
 .banner-one__video-link .ripple,
@@ -168,10 +168,10 @@
     border-radius: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    -ms-box-shadow: 0 0 0 0 rgba(var(--techguru-white-rgb), 0.6);
-    -o-box-shadow: 0 0 0 0 rgba(var(--techguru-white-rgb), 0.6);
-    -webkit-box-shadow: 0 0 0 0 rgba(var(--techguru-white-rgb), 0.6);
-    box-shadow: 0 0 0 0 rgba(var(--techguru-white-rgb), 0.6);
+    -ms-box-shadow: 0 0 0 0 rgba(var(--complaint-white-rgb), 0.6);
+    -o-box-shadow: 0 0 0 0 rgba(var(--complaint-white-rgb), 0.6);
+    -webkit-box-shadow: 0 0 0 0 rgba(var(--complaint-white-rgb), 0.6);
+    box-shadow: 0 0 0 0 rgba(var(--complaint-white-rgb), 0.6);
     -webkit-animation: ripple 3s infinite;
     animation: ripple 3s infinite;
 }

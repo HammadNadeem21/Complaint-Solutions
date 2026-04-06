@@ -5,7 +5,7 @@
     position: relative;
     display: block;
     padding: 140px 0 110px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     overflow: hidden;
     z-index: 1;
 }
@@ -17,7 +17,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(var(--techguru-white-rgb), .05);
+    background-color: rgba(var(--complaint-white-rgb), .05);
     z-index: -1;
 }
 
@@ -48,7 +48,7 @@
 .feature-one__single {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     border-radius: 10px;
     text-align: center;
     padding: 40px 40px 39px;
@@ -101,11 +101,11 @@
 }
 
 .feature-one__title a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .feature-one__title a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 /*--------------------------------------------------------------
@@ -142,9 +142,9 @@
 .feature-two__single {
     position: relative;
     display: block;
-    background-color: rgba(var(--techguru-white-rgb), .05);
+    background-color: rgba(var(--complaint-white-rgb), .05);
     padding: 30px 25px 33px;
-    border: 1px solid rgba(var(--techguru-white-rgb), .10);
+    border: 1px solid rgba(var(--complaint-white-rgb), .10);
     border-radius: 10px;
     text-align: center;
     margin-bottom: 30px;
@@ -222,12 +222,12 @@
 
 .feature-two__single:hover .feature-two__icon span {
     transform: scale(0.9);
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     background: none;
-    -webkit-background-clip: var(--techguru-white);
-    -webkit-text-fill-color: var(--techguru-white);
-    background-clip: var(--techguru-white);
-    text-fill-color: var(--techguru-white);
+    -webkit-background-clip: var(--complaint-white);
+    -webkit-text-fill-color: var(--complaint-white);
+    background-clip: var(--complaint-white);
+    text-fill-color: var(--complaint-white);
 }
 
 .feature-two__title {
@@ -240,11 +240,11 @@
 }
 
 .feature-two__title a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .feature-two__title a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 

@@ -5,7 +5,7 @@
     position: relative;
     display: block;
     padding: 140px 0 133px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     z-index: 1;
 }
 
@@ -90,7 +90,7 @@
     left: 0px;
     bottom: 0;
     right: 0;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 18px;
     font-weight: 700;
     text-transform: capitalize !important;
@@ -133,7 +133,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: var(--techguru-black);
+    background: var(--complaint-black);
     opacity: 0;
     transition: background-color 0.5s ease;
     transition: all 0.5s ease;
@@ -157,7 +157,7 @@
 .portfolio-one__tag span {
     position: relative;
     display: inline-block;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     font-size: 16px;
     font-weight: 700;
     color: #2F4858;
@@ -205,11 +205,11 @@
 }
 
 .portfolio-one__title a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .portfolio-one__title a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .portfolio-one__arrow {
@@ -227,7 +227,7 @@
     background: linear-gradient(270deg, #5CB0E9 0%, #3D72FC 100%);
     border-radius: 50%;
     font-size: 16px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     z-index: 1;
 }
 
@@ -236,7 +236,7 @@
 }
 
 .portfolio-one__arrow a:hover {
-    color: var(--techguru-black);
+    color: var(--complaint-black);
 }
 
 .portfolio-one__arrow a::before {
@@ -247,7 +247,7 @@
     right: 0;
     bottom: 0;
     border-radius: 50%;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     transform: scale(0);
     transform-origin: center;
     transform-style: preserve-3d;
@@ -293,7 +293,7 @@
     position: relative;
     display: block;
     padding: 140px 0 140px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     overflow: hidden;
     z-index: 1;
 }
@@ -305,7 +305,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(var(--techguru-white-rgb), 0.05);
+    background-color: rgba(var(--complaint-white-rgb), 0.05);
     z-index: -1;
 }
 
@@ -460,7 +460,7 @@
 }
 
 .portfolio-two__title h3 a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .portfolio-two__box li.active .portfolio-two__title {
@@ -501,7 +501,7 @@
     height: 48px;
     border-radius: 50%;
     font-size: 16px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     z-index: 1;
 }
 
@@ -550,15 +550,15 @@
 }
 
 .portfolio-two__title-2 a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .portfolio-two__title-2 a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .portfolio-two__text {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .portfolio-two__carousel.owl-theme .owl-nav {
@@ -715,7 +715,7 @@
     left: 3px;
     right: 3px;
     bottom: 3px;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     border-radius: 50%;
     transform: scaleX(0);
     transition: all 200ms linear;
@@ -836,7 +836,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid rgba(var(--techguru-white-rgb), .10);
+    border-bottom: 1px solid rgba(var(--complaint-white-rgb), .10);
     padding-bottom: 30px;
     margin-bottom: 30px;
 }
@@ -850,7 +850,7 @@
     font-size: 56px;
     font-weight: 500;
     line-height: 84px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 32px;
 }
 
@@ -881,10 +881,10 @@
     justify-content: center;
     width: 48px;
     height: 48px;
-    border: 1px solid rgba(var(--techguru-white-rgb), .20);
+    border: 1px solid rgba(var(--complaint-white-rgb), .20);
     border-radius: 14px;
     font-size: 22px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     overflow: hidden;
     z-index: 1;
 }
@@ -928,12 +928,12 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     z-index: 1;
 }
 
 .portfolio-details__get-touch a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .portfolio-details__get-touch:before {
@@ -1043,7 +1043,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .portfolio-details__portfolio-list li .content {
@@ -1064,7 +1064,7 @@
     font-size: 20px;
     font-weight: 700;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     text-transform: capitalize;
     margin-top: 2px;
 }
@@ -1102,7 +1102,7 @@
     font-weight: 700;
     counter-increment: count 1;
     content: "0"counter(count);
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
 }
 
 .portfolio-details__portfolio-content {
@@ -1114,7 +1114,7 @@
     font-size: 24px;
     line-height: 34px;
     font-weight: 700;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .portfolio-details__text-1 {
@@ -1135,7 +1135,7 @@
     font-size: 24px;
     line-height: 34px;
     font-weight: 700;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 12px;
 }
 
@@ -1172,7 +1172,7 @@
     position: relative;
     display: inline-block;
     font-size: 16px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .portfolio-details__img-box {
@@ -1195,7 +1195,7 @@
     font-size: 24px;
     font-weight: 700;
     line-height: 34px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 13px;
 }
 
@@ -1228,7 +1228,7 @@
     position: relative;
     display: inline-block;
     font-size: 16px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .portfolio-details__portfolio-list-three-single .content {
@@ -1240,7 +1240,7 @@
 .portfolio-details__portfolio-list-three-single .content h5 {
     font-size: 18px;
     font-weight: 700;
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
     margin-bottom: 3px;
 }
 
@@ -1262,7 +1262,7 @@
     font-size: 24px;
     font-weight: 700;
     line-height: 34px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 

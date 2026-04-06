@@ -4,7 +4,7 @@
 .pricing-one {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     padding: 140px 0 110px;
     z-index: 1;
 }
@@ -87,8 +87,8 @@
 .pricing-one__sub-title {
     font-size: 20px;
     font-weight: 400;
-    font-family: var(--techguru-font-two);
-    color: var(--techguru-base);
+    font-family: var(--complaint-font-two);
+    color: var(--complaint-base);
     text-transform: uppercase;
 }
 
@@ -96,7 +96,7 @@
     font-size: 60px;
     font-weight: 700;
     line-height: 60px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin: 14px 0 19px;
 }
 
@@ -105,7 +105,7 @@
     font-weight: 400;
     line-height: 30px;
     text-transform: capitalize;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     padding-bottom: 31px;
 }
 
@@ -175,7 +175,7 @@
 }
 
 .pricing-one__points li p {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .pricing-one__points li:nth-child(4) p {
@@ -202,7 +202,7 @@
     -webkit-appearance: none;
     outline: none !important;
     background: linear-gradient(270deg, #FA5674 0%, #6065D4 100%);
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 16px;
     line-height: 16px;
     font-weight: 500;
@@ -215,7 +215,7 @@
 }
 
 .pricing-one__btn:hover {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .pricing-one__btn::after {
@@ -253,7 +253,7 @@
     position: relative;
     display: block;
     padding: 140px 0 140px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     overflow: hidden;
     z-index: 1;
 }
@@ -350,7 +350,7 @@
     text-align: center;
     font-size: 16px;
     line-height: 16px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     background-color: transparent;
     padding: 17px 30px 17px;
     font-weight: 500;
@@ -422,7 +422,7 @@
     display: block;
     background-color: #1D253F;
     border-radius: 40px;
-    border: 1px solid rgba(var(--techguru-white-rgb), .10);
+    border: 1px solid rgba(var(--complaint-white-rgb), .10);
     padding: 40px 40px 40px;
     overflow: hidden;
     z-index: 1;
@@ -516,8 +516,8 @@
 .pricing-two__sub-title {
     font-size: 20px;
     font-weight: 400;
-    font-family: var(--techguru-font-two);
-    color: var(--techguru-base);
+    font-family: var(--complaint-font-two);
+    color: var(--complaint-base);
     text-transform: uppercase;
     text-align: center;
     position: relative;
@@ -528,7 +528,7 @@
     font-size: 60px;
     font-weight: 700;
     line-height: 60px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin: 14px 0 19px;
     text-align: center;
 }
@@ -538,7 +538,7 @@
     font-weight: 400;
     line-height: 30px;
     text-transform: capitalize;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     text-align: center;
 }
 
@@ -559,7 +559,7 @@
     -webkit-appearance: none;
     outline: none !important;
     background: linear-gradient(270deg, #FA5674 0%, #6065D4 100%);
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 16px;
     line-height: 16px;
     font-weight: 500;
@@ -572,7 +572,7 @@
 }
 
 .pricing-two__btn:hover {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .pricing-two__btn::after {
@@ -606,7 +606,7 @@
     font-size: 24px;
     font-weight: 500;
     line-height: 34px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .pricing-two__points {
@@ -669,7 +669,7 @@
 }
 
 .pricing-two__points li p {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .pricing-two__points li:nth-child(4) p {

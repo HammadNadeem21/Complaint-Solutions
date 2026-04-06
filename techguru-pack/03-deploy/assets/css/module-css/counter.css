@@ -15,7 +15,7 @@
     overflow: hidden;
     padding: 80px 0 65px;
     border-radius: 24px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     z-index: 1;
 }
 
@@ -164,12 +164,12 @@
 
 .counter-one__single:hover .counter-one__icon span {
     transform: scale(0.9);
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     background: none;
-    -webkit-background-clip: var(--techguru-white);
-    -webkit-text-fill-color: var(--techguru-white);
-    background-clip: var(--techguru-white);
-    text-fill-color: var(--techguru-white);
+    -webkit-background-clip: var(--complaint-white);
+    -webkit-text-fill-color: var(--complaint-white);
+    background-clip: var(--complaint-white);
+    text-fill-color: var(--complaint-white);
 }
 
 .counter-one__content {
@@ -188,22 +188,22 @@
     font-size: 60px;
     font-weight: 700;
     line-height: 60px !important;
-    color: var(--techguru-white);
-    font-family: var(--techguru-font) !important;
+    color: var(--complaint-white);
+    font-family: var(--complaint-font) !important;
 }
 
 .counter-one__count-box span {
     font-size: 60px;
     font-weight: 700;
     line-height: 60px;
-    color: var(--techguru-white);
-    font-family: var(--techguru-font);
+    color: var(--complaint-white);
+    font-family: var(--complaint-font);
 }
 
 .counter-one__text {
     font-size: 20px;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     text-transform: capitalize;
 }
 
@@ -267,7 +267,7 @@
     position: relative;
     display: inline-block;
     font-size: 26px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .counter-two__content {
@@ -286,16 +286,16 @@
     font-size: 60px;
     font-weight: 500;
     line-height: 60px !important;
-    font-family: var(--techguru-font) !important;
-    color: var(--techguru-white);
+    font-family: var(--complaint-font) !important;
+    color: var(--complaint-white);
 }
 
 .counter-two__count-box span {
     font-size: 60px;
     font-weight: 500;
     line-height: 60px !important;
-    font-family: var(--techguru-font) !important;
-    color: var(--techguru-white);
+    font-family: var(--complaint-font) !important;
+    color: var(--complaint-white);
 }
 
 .counter-two__text {

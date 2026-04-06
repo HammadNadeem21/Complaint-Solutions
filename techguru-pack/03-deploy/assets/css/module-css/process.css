@@ -4,7 +4,7 @@
 .process-one {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     padding: 132px 0 133px;
     counter-reset: count;
     overflow: hidden;
@@ -18,7 +18,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(var(--techguru-white-rgb), 0.05);
+    background-color: rgba(var(--complaint-white-rgb), 0.05);
     z-index: -1;
 }
 
@@ -142,7 +142,7 @@
     background-clip: text;
     text-fill-color: transparent;
     text-transform: capitalize;
-    font-family: var(--techguru-font-two);
+    font-family: var(--complaint-font-two);
 }
 
 .process-one__process-content {
@@ -154,7 +154,7 @@
     font-size: 24px;
     font-weight: 700;
     line-height: 34px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .process-one__process-text {
@@ -257,7 +257,7 @@
     line-height: 28px;
     max-width: 700px;
     margin: 20px auto 0;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     opacity: 0.9;
 }
 
@@ -303,7 +303,7 @@
     font-size: 40px;
     line-height: 40px;
     font-weight: 700;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     counter-increment: count 1;
     content: "0"counter(count);
     transform: translateX(-50%);
@@ -348,7 +348,7 @@
     font-size: 24px;
     font-weight: 500;
     line-height: 34px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin: 19px 0 12px;
 }
 
@@ -366,12 +366,12 @@
 .process-two__closing p {
     font-size: 18px;
     font-weight: 500;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     background: rgba(255, 255, 255, 0.05);
     display: inline-block;
     padding: 15px 30px;
     border-radius: 50px;
-    border: 1px border var(--techguru-white);
+    border: 1px border var(--complaint-white);
     border: 1px solid rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(5px);
 }

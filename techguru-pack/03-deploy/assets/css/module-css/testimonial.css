@@ -4,7 +4,7 @@
 .testimonial-one {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     padding: 140px 0 0px;
     overflow: hidden;
     z-index: 1;
@@ -17,7 +17,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(var(--techguru-white-rgb), .05);
+    background-color: rgba(var(--complaint-white-rgb), .05);
     z-index: -1;
 }
 
@@ -130,7 +130,7 @@
 .testimonial-one__title {
     font-size: 24px;
     font-weight: 700;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     line-height: 1.2em;
     margin-bottom: 25px;
 }
@@ -146,7 +146,7 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    border-top: 1px solid rgba(var(--techguru-white-rgb), .10);
+    border-top: 1px solid rgba(var(--complaint-white-rgb), .10);
     padding-top: 16px;
     margin-top: 24px;
 }
@@ -174,7 +174,7 @@
     position: relative;
     display: block;
     font-size: 24px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     top: 2px;
 }
 
@@ -192,11 +192,11 @@
 }
 
 .testimonial-one__client-name a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .testimonial-one__client-name a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .testimonial-one__trustpilot-box {
@@ -225,7 +225,7 @@
 .testimonial-one__trustpilot-text {
     font-size: 14px;
     font-weight: 500;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
     line-height: 14px;
 }
 
@@ -414,7 +414,7 @@
     left: 3px;
     right: 3px;
     bottom: 3px;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     border-radius: 50%;
     transform: scaleX(0);
     transition: all 200ms linear;
@@ -575,16 +575,16 @@
     position: relative;
     display: inline-block;
     font-size: 18px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .testimonial-two__star span:nth-child(4) {
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
     opacity: .40;
 }
 
 .testimonial-two__star span:nth-child(5) {
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
     opacity: .40;
 }
 
@@ -614,7 +614,7 @@
 
 .testimonial-two__client-img img {
     border-radius: 50%;
-    border: 2px solid rgba(var(--techguru-white-rgb), .80);
+    border: 2px solid rgba(var(--complaint-white-rgb), .80);
 }
 
 .testimonial-two__client-content {
@@ -631,11 +631,11 @@
 }
 
 .testimonial-two__client-name a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .testimonial-two__client-name a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .testimonial-two__sub-title {
@@ -694,7 +694,7 @@
     left: 3px;
     right: 3px;
     bottom: 3px;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
     border-radius: 50%;
     transform: scaleX(0);
     transition: all 200ms linear;

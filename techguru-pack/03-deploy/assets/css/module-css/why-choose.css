@@ -234,7 +234,7 @@
     position: relative;
     display: inline-block;
     font-size: 35px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     transition: all 500ms linear;
     transition-delay: 0.1s;
     transform: scale(1);
@@ -252,7 +252,7 @@
 
 .why-choose-two__points li .content h4 {
     font-size: 24px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 500;
     line-height: 34px;
     margin-bottom: 10px;
@@ -264,7 +264,7 @@
 .why-choose-three {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     padding: 140px 0 0;
     z-index: 1;
 }
@@ -289,7 +289,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(var(--techguru-white-rgb), 0.05);
+    background-color: rgba(var(--complaint-white-rgb), 0.05);
     z-index: -1;
 }
 
@@ -338,14 +338,14 @@
     position: relative;
     display: inline-block;
     font-size: 57px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .why-choose-three__title {
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin: 23px 0 6px;
 }
 

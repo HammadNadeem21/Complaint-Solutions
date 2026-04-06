@@ -60,7 +60,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-one__points li .content {
@@ -73,7 +73,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 12px;
 }
 
@@ -136,7 +136,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     transition: all 500ms linear;
     transition-delay: 0.1s;
     transform: scale(1);
@@ -166,11 +166,11 @@
 }
 
 .about-one__call-box .content p a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-one__call-box .content p a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .about-one__right {
@@ -325,7 +325,7 @@
     position: relative;
     display: block;
     padding: 140px 0 140px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     z-index: 1;
 }
 
@@ -425,7 +425,7 @@
     text-align: center;
     padding: 18px 10px 16px;
     margin-top: 16px;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     border-radius: 24px;
     z-index: 1;
 }
@@ -489,17 +489,17 @@
     font-size: 16px;
     color: #08111F;
     border-radius: 50%;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
 }
 
 .about-two__client-text {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-top: 12px;
 }
 
 .about-two__client-text span {
-    color: var(--techguru-white);
-    font-family: var(--techguru-font) !important;
+    color: var(--complaint-white);
+    font-family: var(--complaint-font) !important;
 }
 
 .about-two__right {
@@ -520,8 +520,8 @@
     display: flex;
     align-items: flex-start;
     gap: 50px;
-    border-top: 1px dashed rgba(var(--techguru-white-rgb), .20);
-    border-bottom: 1px dashed rgba(var(--techguru-white-rgb), .20);
+    border-top: 1px dashed rgba(var(--complaint-white-rgb), .20);
+    border-bottom: 1px dashed rgba(var(--complaint-white-rgb), .20);
     padding-top: 23px;
     margin-top: 26px;
     padding-bottom: 23px;
@@ -554,7 +554,7 @@
     position: relative;
     display: inline-block;
     font-size: 16px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-two__experience-contact-and-btn {
@@ -578,7 +578,7 @@
     right: -20px;
     width: 1px;
     height: 30px;
-    background-color: var(--techguru-white);
+    background-color: var(--complaint-white);
     transform: translateY(-50%);
 }
 
@@ -592,23 +592,23 @@
     font-size: 48px;
     font-weight: 700;
     line-height: 48px !important;
-    font-family: var(--techguru-font) !important;
-    color: var(--techguru-base);
+    font-family: var(--complaint-font) !important;
+    color: var(--complaint-base);
 }
 
 .about-two__experience-count-box span {
     font-size: 48px;
     font-weight: 700;
     line-height: 48px !important;
-    font-family: var(--techguru-font) !important;
-    color: var(--techguru-base);
+    font-family: var(--complaint-font) !important;
+    color: var(--complaint-base);
 }
 
 .about-two__experience-text {
     font-size: 12px;
     font-weight: 500;
     line-height: 18px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-two__call-box {
@@ -625,7 +625,7 @@
     right: -20px;
     width: 1px;
     height: 30px;
-    background-color: var(--techguru-white);
+    background-color: var(--complaint-white);
     transform: translateY(-50%);
 }
 
@@ -697,11 +697,11 @@
 }
 
 .about-two__call-content p a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-two__call-content p a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .about-two__btn-box {
@@ -719,7 +719,7 @@
 .about-three {
     position: relative;
     display: block;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     overflow: hidden;
     padding: 140px 0 122px;
     z-index: 1;
@@ -776,14 +776,14 @@
     line-height: 30px;
     text-transform: capitalize;
     margin-bottom: 13px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-three__progress-box .progress-box .bar {
     position: relative;
     width: 100%;
     height: 7px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
     border-radius: 4px;
 }
 
@@ -792,7 +792,7 @@
     display: block;
     width: 0px;
     height: 7px;
-    background: var(--techguru-base);
+    background: var(--complaint-base);
     border-radius: 4px;
     -webkit-transition: all 1500ms ease;
     transition: all 1500ms ease;
@@ -805,8 +805,8 @@
     bottom: 18px;
     width: 40px;
     height: 22px;
-    background: var(--techguru-base);
-    color: var(--techguru-black);
+    background: var(--complaint-base);
+    color: var(--complaint-black);
     line-height: 22px;
     font-size: 14px;
     font-weight: 500;
@@ -814,7 +814,7 @@
     text-align: center;
     letter-spacing: 0;
     opacity: 0;
-    font-family: var(--techguru-font);
+    font-family: var(--complaint-font);
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -830,8 +830,8 @@
     top: 100%;
     margin-top: -5px;
     border: 5px solid transparent;
-    border-top: 5px solid var(--techguru-base);
-    border-left: 5px solid var(--techguru-base);
+    border-top: 5px solid var(--complaint-base);
+    border-left: 5px solid var(--complaint-base);
 }
 
 .about-three__points {
@@ -862,7 +862,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-three__points li .content {
@@ -875,7 +875,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-three__btn-and-call-box {
@@ -937,7 +937,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     transition: all 500ms linear;
     transition-delay: 0.1s;
     transform: scale(1);
@@ -967,11 +967,11 @@
 }
 
 .about-three__call-box .content p a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-three__call-box .content p a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 /*--------------------------------------------------------------
@@ -1043,7 +1043,7 @@
 
 .about-four__img-2 img {
     width: auto;
-    border: 2px solid var(--techguru-white);
+    border: 2px solid var(--complaint-white);
     border-radius: 40px;
 }
 
@@ -1082,15 +1082,15 @@
     font-size: 48px;
     font-weight: 700;
     line-height: 48px !important;
-    font-family: var(--techguru-font) !important;
-    color: var(--techguru-white);
+    font-family: var(--complaint-font) !important;
+    color: var(--complaint-white);
 }
 
 .about-four__experience-count-text {
     font-size: 14px;
     font-weight: 500;
     line-height: 17px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     top: -3px;
     position: relative;
 }
@@ -1146,17 +1146,17 @@
     font-size: 16px;
     color: #08111F;
     border-radius: 50%;
-    background-color: var(--techguru-base);
+    background-color: var(--complaint-base);
 }
 
 .about-four__client-text {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-top: 12px;
 }
 
 .about-four__client-text span {
-    color: var(--techguru-white);
-    font-family: var(--techguru-font) !important;
+    color: var(--complaint-white);
+    font-family: var(--complaint-font) !important;
 }
 
 .about-four__right {
@@ -1177,8 +1177,8 @@
     display: flex;
     align-items: flex-start;
     gap: 40px;
-    border-top: 1px dashed rgba(var(--techguru-white-rgb), .20);
-    border-bottom: 1px dashed rgba(var(--techguru-white-rgb), .20);
+    border-top: 1px dashed rgba(var(--complaint-white-rgb), .20);
+    border-bottom: 1px dashed rgba(var(--complaint-white-rgb), .20);
     padding: 24px 0 24px;
     margin: 24px 0 24px;
 }
@@ -1212,7 +1212,7 @@
     position: relative;
     display: inline-block;
     font-size: 16px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .about-four__points-list-img {
@@ -1237,7 +1237,7 @@
     font-size: 20px;
     font-weight: 700;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .about-four__points-list-content p {
@@ -1293,7 +1293,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 3px;
 }
 

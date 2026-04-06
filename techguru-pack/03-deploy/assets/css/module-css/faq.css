@@ -5,7 +5,7 @@
     position: relative;
     display: block;
     overflow: hidden;
-    background-color: var(--techguru-black);
+    background-color: var(--complaint-black);
     padding: 140px 0 140px;
     z-index: 1;
 }
@@ -17,7 +17,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(var(--techguru-white-rgb), 0.05);
+    background-color: rgba(var(--complaint-white-rgb), 0.05);
     z-index: -1;
 }
 
@@ -90,14 +90,14 @@
 
 .faq-one__experience-year h2 {
     font-size: 50px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 700;
     line-height: 1.2em !important;
-    font-family: var(--techguru-font) !important;
+    font-family: var(--complaint-font) !important;
 }
 
 .faq-one__experience-text {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-weight: 500;
 }
 
@@ -109,7 +109,7 @@
 .faq-one .faq-one-accrodion .accrodion {
     position: relative;
     display: block;
-    border: 1px solid rgba(var(--techguru-white-rgb), .15);
+    border: 1px solid rgba(var(--complaint-white-rgb), .15);
     background: #08111F;
     border-radius: 20px;
     overflow: hidden;
@@ -118,8 +118,8 @@
 }
 
 .faq-one .faq-one-accrodion .accrodion.active {
-    border: 1px solid rgba(var(--techguru-white-rgb), .15);
-    background: var(--techguru-black);
+    border: 1px solid rgba(var(--complaint-white-rgb), .15);
+    background: var(--complaint-black);
 }
 
 .faq-one .faq-one-accrodion .accrodion-title {
@@ -136,7 +136,7 @@
     font-size: 22px;
     font-weight: 700;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     position: relative;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
@@ -151,7 +151,7 @@
     font-family: "Font Awesome 5 Pro";
     font-weight: 700;
     font-size: 17px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     position: absolute;
     top: 50%;
     right: 0;
@@ -167,12 +167,12 @@
     text-align: center;
     width: 40px;
     height: 40px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
 }
 
 .faq-one .faq-one-accrodion .accrodion.active .accrodion-title h4::before {
     content: "\f107";
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     background-color: #08111F;
     border-radius: 50%;
     text-align: center;
@@ -245,7 +245,7 @@
     display: block;
     width: 200px;
     height: 1px;
-    background-color: rgba(var(--techguru-white-rgb), .10);
+    background-color: rgba(var(--complaint-white-rgb), .10);
     margin: 23px 0 17px;
 }
 
@@ -288,7 +288,7 @@
 }
 
 .faq-two__contact .content p a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .faq-two__btn-box {
@@ -364,14 +364,14 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     position: relative;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
 
 .faq-two .faq-one-accrodion .accrodion.active .accrodion-title h4 {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .faq-two .faq-one-accrodion .accrodion+.accrodion {
@@ -382,7 +382,7 @@
     content: "\e916";
     font-family: 'icomoon' !important;
     font-size: 12px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     position: absolute;
     top: 50%;
     right: 0;
@@ -401,7 +401,7 @@
 
 .faq-two .faq-one-accrodion .accrodion.active .accrodion-title h4::before {
     content: "\e91d";
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .faq-two .faq-one-accrodion .accrodion-content {
@@ -410,12 +410,12 @@
     padding-left: 35px;
     padding-top: 19px;
     padding-right: 35px;
-    border-top: 1px dashed rgba(var(--techguru-white-rgb), .40);
+    border-top: 1px dashed rgba(var(--complaint-white-rgb), .40);
 }
 
 .faq-two .faq-one-accrodion .accrodion-content p {
     font-weight: 500;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .faq-two .accrodion-content__text-2 {
@@ -429,7 +429,7 @@
     position: relative;
     display: block;
     padding: 140px 0 140px;
-    background: var(--techguru-black);
+    background: var(--complaint-black);
     z-index: 1;
 }
 

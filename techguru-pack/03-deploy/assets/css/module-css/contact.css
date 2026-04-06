@@ -63,7 +63,7 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 40px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 46px;
 }
 
@@ -178,7 +178,7 @@
 }
 
 .contact-one__input-box .nice-select .option {
-    color: var(--techguru-black);
+    color: var(--complaint-black);
 }
 
 .contact-one__input-box .nice-select .option.selected {
@@ -188,7 +188,7 @@
 .contact-one__input-box .nice-select .option:hover,
 .contact-one__input-box .nice-select .option.focus,
 .contact-one__input-box .nice-select .option.selected.focus {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .contact-one__input-box textarea {
@@ -202,7 +202,7 @@
     padding-right: 45px;
     outline: none;
     font-size: 16px;
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
     display: block;
     font-weight: 400;
     border-radius: 16px;
@@ -284,7 +284,7 @@
     display: flex;
     align-items: flex-start;
     gap: 25px;
-    border-bottom: 1px solid rgba(var(--techguru-white-rgb), .24);
+    border-bottom: 1px solid rgba(var(--complaint-white-rgb), .24);
     padding-bottom: 31px;
 }
 
@@ -340,7 +340,7 @@
     position: relative;
     display: inline-block;
     font-size: 22px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .contact-one__list li .content {
@@ -353,16 +353,16 @@
     font-size: 20px;
     font-weight: 700;
     line-height: 30px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-bottom: 4px;
 }
 
 .contact-one__list li .content p a {
-    color: var(--techguru-gray);
+    color: var(--complaint-gray);
 }
 
 .contact-one__list li .content p a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 
@@ -489,7 +489,7 @@
     position: relative;
     display: inline-block;
     font-size: 20px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .contact-two__contact-list li .content {
@@ -512,22 +512,22 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 31px;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     margin-top: 1px;
 }
 
 .contact-two__contact-list li .content p a {
-    color: var(--techguru-white);
+    color: var(--complaint-white);
 }
 
 .contact-two__contact-list li .content p a:hover {
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 .contact-two__right {
     position: relative;
     display: block;
-    background-color: rgba(var(--techguru-white-rgb), 0.05);
+    background-color: rgba(var(--complaint-white-rgb), 0.05);
     padding: 35px 35px 35px;
     border-radius: 20px;
 }
@@ -557,7 +557,7 @@
     font-size: 200px;
     line-height: 251px;
     font-weight: 400;
-    font-family: var(--techguru-font-two);
+    font-family: var(--complaint-font-two);
     font-style: normal;
     text-transform: uppercase;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0) 67.4%);

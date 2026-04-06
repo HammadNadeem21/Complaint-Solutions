@@ -33,12 +33,12 @@
     position: relative;
     display: flex;
     align-items: center;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 30px;
     line-height: 30px;
     font-weight: 400;
     letter-spacing: -0.02em;
-    font-family: var(--techguru-font-two);
+    font-family: var(--complaint-font-two);
     font-style: normal;
     text-transform: capitalize;
     -webkit-transition: all 0.3s ease;
@@ -124,12 +124,12 @@
     position: relative;
     display: flex;
     align-items: center;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
     letter-spacing: 0.04em;
-    font-family: var(--techguru-font-two);
+    font-family: var(--complaint-font-two);
     font-style: normal;
     text-transform: uppercase;
     border-radius: 40px;
@@ -197,11 +197,11 @@
     position: relative;
     display: flex;
     align-items: center;
-    color: var(--techguru-white);
+    color: var(--complaint-white);
     font-size: 24px;
     line-height: 24px;
     font-weight: 400;
-    font-family: var(--techguru-font-two);
+    font-family: var(--complaint-font-two);
     font-style: normal;
     text-transform: uppercase;
     margin-left: 25px;
@@ -214,7 +214,7 @@
     top: 0;
     left: 0;
     width: 0;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
     white-space: nowrap;
     content: attr(data-hover);
     transition: all 0.5s cubic-bezier(0.17, 0.67, 0.32, 0.87);
@@ -228,7 +228,7 @@
     position: relative;
     display: inline-block;
     font-size: 24px;
-    color: var(--techguru-base);
+    color: var(--complaint-base);
 }
 
 
